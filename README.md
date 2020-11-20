@@ -12,6 +12,14 @@ The goal of the challenge is to classify images of people wearing masks ( thanks
 * No person in the image is wearing a mask
 * Someone in the image is not wearing a mask.
 
+#### Accuracy results from kaggle ####
+
+| Model from scratch | Transfer learning model |
+|------------|----------|
+|0.888|0.955|
+
+Our main ideas and their implementation can be found [here](https://github.com/calde97/Deep_Learning_Challenge/tree/main/first_challenge)
+
 The kaggle competition can be found [here](https://www.kaggle.com/c/artificial-neural-networks-and-deep-learning-2020/)
 
  ## Project Members ##
