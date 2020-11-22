@@ -16,7 +16,7 @@ The goal of the challenge is to classify images of people wearing masks ( thanks
 
 | Model from scratch | Transfer learning model |
 |------------|----------|
-|0.888|0.955|
+|0.895|0.955|
 
 Our main ideas and their implementation can be found [here](https://github.com/calde97/Deep_Learning_Challenge/tree/main/first_challenge)
 
