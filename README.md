@@ -26,6 +26,10 @@ The kaggle competition can be found [here](https://www.kaggle.com/c/artificial-n
 
 ---
 
+## Image Segmentation  ##
+
+---
+
  ## Project Members ##
  
  * [Juan Felipe Calderon](https://github.com/calde97)
