@@ -28,6 +28,17 @@ The kaggle competition can be found [here](https://www.kaggle.com/c/artificial-n
 
 ## Image Segmentation  ##
 
+The goal of the challenge is to perform precise automatic crop and weed segmentation for the agricoltural sector.
+
+Input Image            |  Output Segmentation Image
+:-------------------------:|:-------------------------:
+<img src="second_challenge/images/Bipbip_haricot_im_00321.jpg" alt="Snow" width="250"> |  <img src="second_challenge/images/Bipbip_haricot_im_00321.png" alt="Snow" width="250"> 
+
+
+Our main ideas and their implementation can be found [here](https://github.com/calde97/Deep_Learning_Challenge/tree/main/second_challenge)
+
+The *codalab* competition can be found [here](https://competitions.codalab.org/competitions/27176)
+
 ---
 
  ## Project Members ##
