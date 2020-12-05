@@ -30,7 +30,7 @@ The kaggle competition can be found [here](https://www.kaggle.com/c/artificial-n
 
 The goal of the challenge is to perform precise automatic crop and weed segmentation for the agricoltural sector.
 
-Input Image            |  Output Segmentation Image
+Input Image            |  Expected segmentation
 :-------------------------:|:-------------------------:
 <img src="second_challenge/images/Bipbip_haricot_im_00321.jpg" alt="Snow" width="250"> |  <img src="second_challenge/images/Bipbip_haricot_im_00321.png" alt="Snow" width="250"> 
 
