@@ -41,6 +41,23 @@ The *codalab* competition can be found [here](https://competitions.codalab.org/c
 
 ---
 
+## Visual question answering  ##
+
+The goal of the challenge is to answer questions using the information provided by the corresponding image and question pair. 
+
+<img src="third_challenge/images/vqa.png" alt="Snow" width="250">
+
+*<b>Q</b>: Is the man's shirt blue?*
+ *<b>A</b>: yes*
+
+Our main ideas and their implementation can be found [here](https://github.com/calde97/Deep_Learning_Challenge/tree/main/third_challenge)
+
+The *Kaggle* competition can be found [here](https://www.kaggle.com/c/anndl-2020-vqa)
+
+**Top 9% out of 146 participants.** 🎉
+
+---
+
  ## Project Members ##
  
  * [Juan Felipe Calderon](https://github.com/calde97)
