@@ -6,7 +6,7 @@ We started by analyzing the data. We observed that the dataset had a very strong
 towards yes/no answers, in fact more than the 30% of them were “yes”, while about 23%
 were “no”.
 
-<img src="third_challenge/images/d.png" alt="Snow" width="250">
+<img src="images/d.png" width="250">
 
 ### Baseline Most Frequent Class
 After analysing the data, we decided to start with a very simple baseline model which would
@@ -26,7 +26,7 @@ single LSTM layer. We then concatenated the 2 vectors. A final classifier (multi
 of the answers. 
 The accuracy on the test set was about 0.50156.
 
-<img src="third_challenge/images/ds.png" alt="Snow" width="250">
+<img src="images/ds.png" width="250">
 
 
 ### GloVe
